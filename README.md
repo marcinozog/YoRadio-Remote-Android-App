@@ -1,10 +1,10 @@
-📻 YoRadio Remote
+# 📻 YoRadio Remote
 
 YoRadio Remote is an Android application designed to control and interact with the YoRadio device over the network.
 
 It provides a simple and responsive interface for managing radio playback, alarms, and text-to-speech features, acting as a companion app for the YoRadio system.
 
-✨ Features
+# ✨ Features
 📡 Remote control of YoRadio device
 Connect via WebSocket
 Real-time synchronization with device state
@@ -36,7 +36,7 @@ Alarm Configuration
 
 TTS Settings
 
-🧠 Architecture Overview
+# 🧠 Architecture Overview
 
 The application is built using modern Android technologies:
 
@@ -80,6 +80,6 @@ Background stability improvements for services
 
 (Add your license here)
 
-🤝 Contributing
+# 🤝 Contributing
 
 Contributions, ideas, and bug reports are welcome!
