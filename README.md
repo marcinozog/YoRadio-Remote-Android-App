@@ -1,8 +1,13 @@
 # 📻 YoRadio Remote
 
-YoRadio Remote is an Android application designed to control and interact with the YoRadio device over the network.
+YoRadio Remote is an Android application that allows you to control your YoRadio device over the network in a simple and intuitive way.
 
-It provides a simple and responsive interface for managing radio playback, alarms, and text-to-speech features, acting as a companion app for the YoRadio system.
+It acts as a companion app, providing real-time control over radio playback, alarms, and text-to-speech features.
+
+# 🚀 Get the App
+
+👉 Available on Google Play:
+https://play.google.com/store/apps/details?id=com.yoradio.remote
 
 # ✨ Features
 📡 Remote control of YoRadio device
@@ -26,15 +31,40 @@ WAV generation and playback synchronization
 🔄 Connection handling
 Automatic reconnect
 Connection state monitoring
-📱 Screenshots
+# 📱 Screenshots
 <!-- Add your screenshots here -->
 Main Screen
 
 Station List
 
-Alarm Configuration
+Alarm Setup
 
-TTS Settings
+TTS Configuration
+
+🔐 Privacy Policy
+
+Privacy policy is available here:
+https://sites.google.com/view/yoradioremote/strona-g%C5%82%C3%B3wna
+
+# ⚙️ Requirements
+Android device
+YoRadio device available in the same network
+Required permissions:
+Internet access
+Alarm scheduling
+Background execution (for alarms and TTS)
+# 📌 Notes
+Some TTS languages may not be supported on all devices
+Alarm behavior may vary depending on Android system restrictions
+The app requires a working YoRadio device to function properly
+# 📄 License
+
+This application is distributed via Google Play.
+Source code is not publicly available.
+
+# 🤝 Feedback
+
+If you encounter any issues or have suggestions, feel free to open an issue or contact via Google Play.
 
 # 🧠 Architecture Overview
 
@@ -59,7 +89,7 @@ INTERNET
 SCHEDULE_EXACT_ALARM
 RECEIVE_BOOT_COMPLETED
 Foreground service permissions (for TTS/alarm)
-🚀 Getting Started
+# 🚀 Getting Started
 
 Clone the repository:
 
