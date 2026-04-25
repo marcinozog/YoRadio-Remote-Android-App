@@ -219,8 +219,7 @@
   | Permission | Why |
   | --- | --- |
   | `INTERNET`, `ACCESS_NETWORK_STATE` | Talk to yoRadio devices and stream audio |
-  | `FOREGROUND_SERVICE` (+ `MEDIA_PLAYBACK`), `POST_NOTIFICATIONS` | Phone playback notification and alarm
-  execution |
+  | `FOREGROUND_SERVICE` (+ `MEDIA_PLAYBACK`), `POST_NOTIFICATIONS` | Phone playback notification and alarm execution |
   | `SCHEDULE_EXACT_ALARM`, `RECEIVE_BOOT_COMPLETED` | Deliver alarms on time and re-arm them after reboot |
 
   ## 🔐 Privacy
