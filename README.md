@@ -61,6 +61,11 @@
 
 <p align="center">
   <img src="img/7.png" width="35%">
+  <img src="img/8.png" width="35%">
+</p>
+
+<p align="center">
+  <img src="img/9.png" width="35%">
 </p>
 
   <!-- SCREENSHOT: Devices screen — discovered yoRadio units -->
