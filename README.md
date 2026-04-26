@@ -226,7 +226,7 @@ The app uses only the permissions it needs:
 
 The app does not collect personal data, contains no analytics or ads, and does
 not send anything to the developer. See the full Privacy Policy:
-**https://sites.google.com/view/yoradioremote/strona-główna**
+**https://sites.google.com/view/yoradioremote/main**
 
 ## 📌 Notes & known limitations
 
