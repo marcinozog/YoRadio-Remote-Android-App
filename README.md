@@ -44,6 +44,8 @@
 
   ## 📱 Screenshots
 
+  <!-- SCREENSHOT -->
+
 <p align="center">
   <img src="img/1.png" width="35%">
   <img src="img/2.png" width="35%">
@@ -67,13 +69,6 @@
 <p align="center">
   <img src="img/9.png" width="35%">
 </p>
-
-  <!-- SCREENSHOT: Devices screen — discovered yoRadio units -->
-  <!-- SCREENSHOT: Keypad / main remote screen -->
-  <!-- SCREENSHOT: Playlist screen -->
-  <!-- SCREENSHOT: Equalizer screen -->
-  <!-- SCREENSHOT: Alarms screen with a scheduled alarm -->
-  <!-- SCREENSHOT: Phone playback notification on the lock screen (optional) -->
 
   ## ⚙️ Requirements
 
